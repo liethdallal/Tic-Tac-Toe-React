@@ -6,6 +6,7 @@ body {
   font-family: sans-serif;
   margin: 20px;
   padding: 0;
+  background-color: aqua;
 }
 
 h1 {
@@ -63,12 +64,12 @@ body {
   font-size: 24px;
   font-weight: bold;
   line-height: 34px;
-  height: 34px;
+  height: 64px;
   margin-right: -1px;
   margin-top: -1px;
   padding: 0;
   text-align: center;
-  width: 34px;
+  width: 64px;
 }
 
 .board-row:after {
